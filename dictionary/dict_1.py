@@ -1,4 +1,4 @@
-#create a disctionary
+#create a dictionary
 new_dict={}
 new_dict['Name']='Satya'
 new_dict['Age']=33
